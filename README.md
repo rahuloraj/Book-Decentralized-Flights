@@ -16,7 +16,7 @@
     <img src="https://i.postimg.cc/2SRQwGpk/airplane.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">VimaanWay</h3>
+  <h3 align="center">Decentralized-Air Ticket</h3>
 
   <p align="center">
     A decentralized flight ticket booking system.
